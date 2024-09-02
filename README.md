@@ -13,8 +13,7 @@ Eco Race not only educates players about the environmental impact of electronic 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jqZ0D9mG/Captura-de-tela-2024-09-02-133831.png' border='0' alt='Captura-de-tela-2024-09-02-133831'/></a>
 
 ## Demonstração
-
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0dzB2ZXVoaHF1M2RvNTh6cjlycnppNXdvZzlza21sdnd2b284MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIpqpWNfY08F0IfFRF/giphy.gif
+  <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0dzB2ZXVoaHF1M2RvNTh6cjlycnppNXdvZzlza21sdnd2b284MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIpqpWNfY08F0IfFRF/giphy.gif" alt="Eco Race gif"/>
 
 
 
