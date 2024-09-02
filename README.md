@@ -12,7 +12,7 @@ Eco Race not only educates players about the environmental impact of electronic 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jSGrs7m2/Captura-de-tela-2024-09-02-133905.png' border='0' alt='Captura-de-tela-2024-09-02-133905'/></a>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jqZ0D9mG/Captura-de-tela-2024-09-02-133831.png' border='0' alt='Captura-de-tela-2024-09-02-133831'/></a>
 
-## Demonstração
+## Demonstration
   <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0dzB2ZXVoaHF1M2RvNTh6cjlycnppNXdvZzlza21sdnd2b284MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIpqpWNfY08F0IfFRF/giphy.gif" alt="Eco Race gif"/>
 
 
@@ -20,21 +20,21 @@ Eco Race not only educates players about the environmental impact of electronic 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Contribuindo
+## Contributing
 
-Contribuições são sempre bem-vindas!
+Contributions are always welcome!
 
-Veja `contribuindo.md` para saber como começar.
+See `contribuindo.md` to learn how to get started.
 
-Por favor, siga o `código de conduta` desse projeto.
+Please follow the `code of conduct` of this project.
 
 
-## Documentação
+##  Documentation
 
 [Documentação](https://link-da-documentação)
 
 
-## Variáveis de Ambiente
+## Environment Variables
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
@@ -43,7 +43,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 `ANOTHER_API_KEY`
 
 
-## Funcionalidades
+##  Features
 
 - Temas dark e light
 - Preview em tempo real
