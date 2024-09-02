@@ -14,7 +14,7 @@ Eco Race not only educates players about the environmental impact of electronic 
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0dzB2ZXVoaHF1M2RvNTh6cjlycnppNXdvZzlza21sdnd2b284MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIpqpWNfY08F0IfFRF/giphy.gif
 
 
 
