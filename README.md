@@ -34,72 +34,57 @@ Please follow the `code of conduct` of this project.
 [Documentação](https://link-da-documentação)
 
 
-## Environment Variables
-
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
 ##  Features
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+- Educational game
+- Sustainability
+- 2D Endless runner
+- Multiplatform
 
 
 ## Feedback
+If you have any feedback, please let us know via eduardo.gomes@aluno.ufca.edu.br
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de eduardooliveira1469@gmail.com
 
-
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+## 🚀 About me
+I'm a technology enthusiast, passionate about programming, developing games and applications, and coffee as well.
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+* Javascript
+* HTML
+* CSS
+* Python
+* C#
+* Database
+* It etc...
 
 
-## Instalação
+## Installation (Links will be made available soon)
 
-Instale my-project com npm
+For Linux:
 
-```bash
-  npm install my-project
-  cd my-project
-```
+For Windows:
+
+For Android:
+
+Web Gl Version:
+
     
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+## Learnings
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+## Improvements
 
 
-## Melhorias
 
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
-
-
-## Licença
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Usado por
-
-Esse projeto é usado pelas seguintes empresas:
-
-- Empresa 1
-- Empresa 2
-
-
-## Autores
+## Authors
 
 - [@LabIsDu](https://www.github.com/LabIsDu)
 
