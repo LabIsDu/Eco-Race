@@ -48,6 +48,10 @@ If you have any feedback, please let us know via eduardo.gomes@aluno.ufca.edu.br
 
 ## 🚀 About me
 I'm a technology enthusiast, passionate about programming, developing games and applications, and coffee as well.
+To get to know me better, visit my GitHub:
+https://www.github.com/LabIsDu
+
+
 
 
 ## 🛠 Habilidades
