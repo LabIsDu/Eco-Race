@@ -92,6 +92,6 @@ Web Gl Version:
 
 - [Eduardo Oliveira](https://www.github.com/LabIsDu)
 - [Sayonara Arcanjo](https://github.com/sayarcanjo)
-- [Francisco Mendonça](https://github.com/prof-francisco-ferreira)
+- [Francisco Mendonça](https://github.com/ffmjunior)
   
 
