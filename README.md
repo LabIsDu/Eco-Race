@@ -88,7 +88,10 @@ Web Gl Version:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Authors
+## Collaborators
 
-- [@LabIsDu](https://www.github.com/LabIsDu)
+- [Eduardo Oliveira](https://www.github.com/LabIsDu)
+- [Sayonara Arcanjo](https://github.com/sayarcanjo)
+- [Francisco Mendonça](https://github.com/prof-francisco-ferreira)
+  
 
