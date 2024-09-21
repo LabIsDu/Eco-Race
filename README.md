@@ -26,36 +26,12 @@
 
 ## Mobile version:
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/cd3e06a4-93fb-4c72-9394-75016ed25167' alt='ecoooo' width='600'/>
-      <p><b>Splash Screen</b></p>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/67841cec-3ee0-42b6-b422-a4948005810f' alt='01 (5)' width='600'/>
-      <p><b>Game Screen</b></p>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/1f6845d3-53ba-4c3d-81a3-bad6b6fc3f14' alt='01 (1)' width='600'/>
-      <p><b>Death Screen</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/10a26d2a-ed58-4f8d-9044-2031b283f68c' alt='01 (4)' width='600'/>
-      <p><b>Items Explanation Screen</b></p>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/f33ff341-f8e8-4efe-a22d-ee143933f8c0' alt='01 (2)' width='600'/>
-      <p><b>Items Explanation Screen</b></p>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src='https://github.com/user-attachments/assets/01f5cb5e-870f-4ecd-a089-676d1eeb4946' alt='01 (3)' width='600'/>
-      <p><b>Items Explanation Screen</b></p>
-    </td>
-  </tr>
-</table>
+<img src='https://github.com/user-attachments/assets/138b524e-b549-4a52-8b46-b08700f69f03' alt='ecooo' width='500'/>
+<img src='https://github.com/user-attachments/assets/d9b953aa-cdb6-4dec-a575-5872ee2e91eb' alt='01 (5)' width='500'/>
+<img src='https://github.com/user-attachments/assets/4221c056-2068-4ec3-935e-cd0b1c0af743' alt='01 (1)' width='500'/>
+<img src='https://github.com/user-attachments/assets/92266285-1de6-4192-a381-7678e3e28684' alt='01 (2)' width='500'/>
+<img src='https://github.com/user-attachments/assets/170c5077-6d6e-460f-a856-e7de9329375e' alt='01 (3)' width='500'/>
+<img src='https://github.com/user-attachments/assets/e49e206a-bcfc-4c5b-9345-636727eeec32' alt='01 (4)' width='500'/>
 
 
 ## Demonstration
