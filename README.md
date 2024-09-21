@@ -76,9 +76,9 @@ https://www.github.com/LabIsDu
     <td>.NET</td>
   </tr>
   <tr>
-    <td>Versão: 10.0</td>
-    <td>Versão: 2021.3.11f1</td>
-    <td>Versão: 6.0</td>
+    <td>Version: 10.0</td>
+    <td>Version: 2021.3.11f1</td>
+    <td>Version: 6.0</td>
   </tr>
 </table>
 
