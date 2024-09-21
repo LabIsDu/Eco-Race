@@ -1,9 +1,11 @@
 
-# Eco Race
+<h1>Eco Race</h1>
 
-**Eco Race** is a game developed as part of the environmental extension project **Eco Causa** at the Federal University of Cariri (UFCA). The main objective of the game is to raise awareness about the importance of proper disposal of electronic waste and its separation from regular waste. In the **endless runner** style, players take on the role of a character running through the environment, collecting items while needing to distinguish between electronic waste and regular waste. The score is based on the player's performance in making this separation correctly.
+> Status: Developing
 
-Eco Race not only educates players about the environmental impact of electronic waste but also uses fun and challenging mechanics to engage the audience, emphasizing the importance of sustainability in a playful way.
+### **Eco Race** is a game developed as part of the environmental extension project **Eco Causa** at the Federal University of Cariri (UFCA). The main objective of the game is to raise awareness about the importance of proper disposal of electronic waste and its separation from regular waste. In the **endless runner** style, players take on the role of a character running through the environment, collecting items while needing to distinguish between electronic waste and regular waste. The score is based on the player's performance in making this separation correctly.
+
+### Eco Race not only educates players about the environmental impact of electronic waste but also uses fun and challenging mechanics to engage the audience, emphasizing the importance of sustainability in a playful way.
 
 
 ## Screenshots
@@ -54,25 +56,30 @@ https://www.github.com/LabIsDu
 
 
 
-## 🛠 Habilidades
-* Javascript
-* HTML
-* CSS
-* Python
-* C#
-* Database
-* It etc...
+## 🛠 Technologies used:
+<table>
+  <tr>
+    <td>C#</td>
+    <td>Unity 2D</td>
+    <td>.NET</td>
+  </tr>
+  <tr>
+    <td>Versão: 10.0</td>
+    <td>Versão: 2021.3.11f1</td>
+    <td>Versão: 6.0</td>
+  </tr>
+</table>
 
 
 ## Installation (Links will be made available soon)
 
-For Linux:
+* For Linux:
 
-For Windows:
+* For Windows:
 
-For Android:
+* For Android:
 
-Web Gl Version:
+* Web Gl Version:
 
     
 ## Learnings
