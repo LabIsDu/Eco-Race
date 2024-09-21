@@ -1,18 +1,30 @@
 
 <h1>Eco Race</h1>
+<img src="https://github.com/user-attachments/assets/892ad015-bffb-4bd3-b1bc-663bfce9fc68" alt="icone" width="200"/> 
 
 > Status: Developing
+
 
 ### **Eco Race** is a game developed as part of the environmental extension project **Eco Causa** at the Federal University of Cariri (UFCA). The main objective of the game is to raise awareness about the importance of proper disposal of electronic waste and its separation from regular waste. In the **endless runner** style, players take on the role of a character running through the environment, collecting items while needing to distinguish between electronic waste and regular waste. The score is based on the player's performance in making this separation correctly.
 
 ### Eco Race not only educates players about the environmental impact of electronic waste but also uses fun and challenging mechanics to engage the audience, emphasizing the importance of sustainability in a playful way.
 
 
-## Screenshots
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xdznHRML/Captura-de-tela-2024-09-02-133847.png' border='0' alt='Captura-de-tela-2024-09-02-133847'/></a>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZK5mjZ6b/Captura-de-tela-2024-09-02-133938.png' border='0' alt='Captura-de-tela-2024-09-02-133938'/></a>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jSGrs7m2/Captura-de-tela-2024-09-02-133905.png' border='0' alt='Captura-de-tela-2024-09-02-133905'/></a>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jqZ0D9mG/Captura-de-tela-2024-09-02-133831.png' border='0' alt='Captura-de-tela-2024-09-02-133831'/></a>
+## Screenshots:
+
+<table>
+  <tr>
+    <td><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xdznHRML/Captura-de-tela-2024-09-02-133847.png' border='0' alt='Captura-de-tela-2024-09-02-133847' width='200'/></a></td>
+    <td><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZK5mjZ6b/Captura-de-tela-2024-09-02-133938.png' border='0' alt='Captura-de-tela-2024-09-02-133938' width='200'/></a></td>
+    <td><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jSGrs7m2/Captura-de-tela-2024-09-02-133905.png' border='0' alt='Captura-de-tela-2024-09-02-133905' width='200'/></a></td>
+  </tr>
+  <tr>
+    <td><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jqZ0D9mG/Captura-de-tela-2024-09-02-133831.png' border='0' alt='Captura-de-tela-2024-09-02-133831' width='200'/></a></td>
+    <td><img src='https://github.com/user-attachments/assets/8e87ad46-40a8-4e63-bc91-3ce08ecf47ed' alt='WhatsApp Image 2024-09-21 at 12 31 58' width='200'/></td>
+  </tr>
+</table>
+
+
 
 ## Demonstration
   <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0dzB2ZXVoaHF1M2RvNTh6cjlycnppNXdvZzlza21sdnd2b284MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIpqpWNfY08F0IfFRF/giphy.gif" alt="Eco Race gif"/>
