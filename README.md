@@ -26,7 +26,7 @@
 
 ## Mobile version:
 
-<img src='https://github.com/user-attachments/assets/138b524e-b549-4a52-8b46-b08700f69f03' alt='ecooo' width='500'/>
+<img src='https://github.com/user-attachments/assets/4b53f062-f21c-4a4b-86b0-cd3ef83806b93' alt='ecooo' width='500'/>
 <img src='https://github.com/user-attachments/assets/d9b953aa-cdb6-4dec-a575-5872ee2e91eb' alt='01 (5)' width='500'/>
 <img src='https://github.com/user-attachments/assets/4221c056-2068-4ec3-935e-cd0b1c0af743' alt='01 (1)' width='500'/>
 <img src='https://github.com/user-attachments/assets/92266285-1de6-4192-a381-7678e3e28684' alt='01 (2)' width='500'/>
