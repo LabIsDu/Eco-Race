@@ -24,6 +24,38 @@
   </tr>
 </table>
 
+## Mobile version:
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/cd3e06a4-93fb-4c72-9394-75016ed25167' alt='ecoooo' width='600'/>
+      <p><b>Splash Screen</b></p>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/67841cec-3ee0-42b6-b422-a4948005810f' alt='01 (5)' width='600'/>
+      <p><b>Game Screen</b></p>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/1f6845d3-53ba-4c3d-81a3-bad6b6fc3f14' alt='01 (1)' width='600'/>
+      <p><b>Death Screen</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/10a26d2a-ed58-4f8d-9044-2031b283f68c' alt='01 (4)' width='600'/>
+      <p><b>Items Explanation Screen</b></p>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/f33ff341-f8e8-4efe-a22d-ee143933f8c0' alt='01 (2)' width='600'/>
+      <p><b>Items Explanation Screen</b></p>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src='https://github.com/user-attachments/assets/01f5cb5e-870f-4ecd-a089-676d1eeb4946' alt='01 (3)' width='600'/>
+      <p><b>Items Explanation Screen</b></p>
+    </td>
+  </tr>
+</table>
 
 
 ## Demonstration
