@@ -4,8 +4,7 @@
 
 > Status: Developing
 
-
-### **Eco Race** is a game developed as part of the environmental extension project **Eco Causa** at the Federal University of Cariri (UFCA). The main objective of the game is to raise awareness about the importance of proper disposal of electronic waste and its separation from regular waste. In the **endless runner** style, players take on the role of a character running through the environment, collecting items while needing to distinguish between electronic waste and regular waste. The score is based on the player's performance in making this separation correctly.
+### *Eco Race* is a game developed by me, Eduardo Oliveira, as part of my extension project *Eco Causa* at the Federal University of Cariri (UFCA), where I worked as a scholarship holder. The main objective of the game is to raise awareness about the importance of proper disposal of electronic waste and its separation from regular waste. In the *endless runner* style, players take on the role of a character running through the environment, collecting items while needing to distinguish between electronic waste and regular waste. The score is based on the player's performance in making this separation correctly.
 
 ### Eco Race not only educates players about the environmental impact of electronic waste but also uses fun and challenging mechanics to engage the audience, emphasizing the importance of sustainability in a playful way.
 
@@ -115,8 +114,7 @@ https://www.github.com/LabIsDu
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Collaborators
-
+# Collaborators
 - [Eduardo Oliveira](https://www.github.com/LabIsDu)
 - [Sayonara Arcanjo](https://github.com/sayarcanjo)
 - [Francisco Mendonça](https://github.com/ffmjunior)
